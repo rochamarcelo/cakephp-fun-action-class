@@ -14,3 +14,4 @@ See:
 - [ActionFactory](./src/Controller/ActionFactory.php) - Create an action class based on the request.
 - [Base Action](./src/Controller/Action.php) - Base action with some methods to render templates.
 - [DisplayAction](./src/Controller/Action/Pages/DisplayAction.php) - Replace PagesController::display method
+- [MeAction](./src/Controller/Action/Users/MeAction.php) - Replace UsersController::me method
